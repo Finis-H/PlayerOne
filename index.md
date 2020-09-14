@@ -2,13 +2,13 @@
 
 韩国影视： [釜 山 行 ](https://movie.douban.com/subject/25986180/)
 
-中国影视： [文 体 两 开 花](https://www.bilibili.com/video/av48629477)
+中国影视： [文 体 两 开 花](https://www.bilibili.com/video/BV1bb411u7iZ/)
 
 ### 音乐专区
 
 ```markdown
 
-[网抑云](https://www.bilibili.com/video/BV1Tv411674m?from=search&seid=11143348995021780224)
+ [网 抑 云](https://www.bilibili.com/video/BV1Tv411674m/)
 
 ```
 
